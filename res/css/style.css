@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Blaka+Ink&display=swap");
+#cookie {
+  max-width: 350px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+#counter {
+  text-align: center;
+  font-size: 100px;
+  font-family: "Blaka Ink", cursive;
+}
+
+#bengr {
+  margin: 0 auto;
+}
+button {font-size:50px;
+  font-family: "Blaka Ink", cursive; margin:0 auto}
+
+  #clickupgrade {margin-left:10%}
+  #autoclickerUpgrade {margin-left:40%}
+  #clickupgrade2 {margin-left:30%}
+
+
+
+  body {
+    background: url("../img/sadadadasdasdad.png");
+    background-size:cover;
+   }
